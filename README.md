@@ -1,4 +1,5 @@
 # Bootstrap-Dance-Website
-Simple HTML-CSS and Bootstrap website
 
-click https://vipershag-6l4dxj-4725517154423.stormkit.dev to check the website
+## This is a simple Static website using HTML-CSS with Bootstrap
+
+click https://abhijiths148.github.io/Bootstrap-Dance-Website/ to check it out live.
